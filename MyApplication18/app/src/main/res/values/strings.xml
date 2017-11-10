@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kitap Günlüğüm</string>
+    <string name="kitaplik_ekle">Kitaplık Ekle</string>
+    <string name="kitap_ekle">Kitap Ekle</string>
+</resources>
