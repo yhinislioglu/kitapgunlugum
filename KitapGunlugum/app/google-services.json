@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437179719012",
+    "firebase_url": "https://kitapgunlugum-543ac.firebaseio.com",
+    "project_id": "kitapgunlugum-543ac",
+    "storage_bucket": "kitapgunlugum-543ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437179719012:android:5fd3b27c29b77004",
+        "android_client_info": {
+          "package_name": "com.example.kitapgunlugum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437179719012-u5j1piumgr4nlv8kq3ath92jd49qhpbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitapgunlugum",
+            "certificate_hash": "545a511c5a3a4d75818e2b1c38a1abca452d37f6"
+          }
+        },
+        {
+          "client_id": "437179719012-dmoe9mq8a3625ocg3ldepb55tek1253j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8ChWTwKaZ1dMI9rQYTJPq2tzvekEgIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437179719012-dmoe9mq8a3625ocg3ldepb55tek1253j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
